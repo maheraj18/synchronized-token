@@ -1,7 +1,7 @@
 # synchronized-token
 Download and Installation Clone the project to the local Machine
 
-git clone :
+git clone :https://github.com/maheraj18/synchronized-token.git
 
 Run application
 
